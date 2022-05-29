@@ -21,7 +21,7 @@ const PreFooter = () => {
       >
         <div
           style={{
-            width: "100px",
+            width: "500px",
             height: "5px",
             background:
               "radial-gradient(50% 50% at 50% 50%, rgba(83, 202, 245, 0.8) 0%, rgba(217, 217, 217, 0) 100%)",
@@ -33,7 +33,7 @@ const PreFooter = () => {
         </div>
         <div
           style={{
-            width: "100px",
+            width: "500px",
             height: "5px",
             background:
               "radial-gradient(50% 50% at 50% 50%, rgba(83, 202, 245, 0.8) 0%, rgba(217, 217, 217, 0) 100%)",
